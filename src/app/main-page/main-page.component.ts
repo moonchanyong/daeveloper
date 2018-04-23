@@ -1,5 +1,6 @@
 import { Component, OnInit } from '@angular/core';
 
+
 @Component({
   selector: 'app-main-page',
   templateUrl: './main-page.component.html',
@@ -34,6 +35,6 @@ export class MainPageComponent implements OnInit {
     this.arr.forEach(d => this.load_sketch_animation(d));
   }
   ngOnInit(){
-    
+
   }
 }
