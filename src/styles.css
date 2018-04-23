@@ -1,1 +1,26 @@
 /* You can add global styles to this file, and also import other style files */
+.main-title {
+  margin-left: auto;
+  margin-right: auto;
+  margin-top: 20vh;
+  display: block;
+}
+
+
+.color-primary-0 { color: #8484E1 }	/* Main Primary color */
+.color-primary-1 { color: #CECEF7 }
+.color-primary-2 { color: #A7A7ED }
+.color-primary-3 { color: #6767D4 }
+.color-primary-4 { color: #4D4DC8 }
+
+.color-secondary-1-0 { color: #9381E0 }	/* Main Secondary color (1) */
+.color-secondary-1-1 { color: #D4CCF7 }
+.color-secondary-1-2 { color: #B2A4EC }
+.color-secondary-1-3 { color: #7962D3 }
+.color-secondary-1-4 { color: #6148C6 }
+
+.color-secondary-2-0 { color: #7F97DE }	/* Main Secondary color (2) */
+.color-secondary-2-1 { color: #CBD6F6 }
+.color-secondary-2-2 { color: #A3B5EB }
+.color-secondary-2-3 { color: #607DD1 }
+.color-secondary-2-4 { color: #4665C3 }
