@@ -1,5 +1,11 @@
 # Daeveloper
 
+* IT동아리
+
+* 동아리 소개 홈페이지
+
+https://moonchanyong.github.io/daeveloper/ 
+
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 1.7.4.
 
 ## Development server
