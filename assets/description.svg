@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="545px" height="221px" viewBox="0 0 545 221" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 49.3 (51167) - http://www.bohemiancoding.com/sketch -->
+    <title>Group</title>
+    <desc>Created with Sketch.</desc>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="525" height="201"></rect>
+        <filter x="-4.0%" y="-8.5%" width="108.0%" height="120.9%" filterUnits="objectBoundingBox" id="filter-2">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="5" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.16 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter2"></feOffset>
+            <feGaussianBlur stdDeviation="2.5" in="shadowOffsetOuter2" result="shadowBlurOuter2"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.26 0" type="matrix" in="shadowBlurOuter2" result="shadowMatrixOuter2"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="shadowMatrixOuter2"></feMergeNode>
+            </feMerge>
+        </filter>
+        <filter x="-2.7%" y="-11.6%" width="105.7%" height="128.4%" filterUnits="objectBoundingBox" id="filter-3">
+            <feOffset dx="0" dy="2" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feGaussianBlur stdDeviation="4" in="shadowOffsetOuter1" result="shadowBlurOuter1"></feGaussianBlur>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowBlurOuter1" result="shadowMatrixOuter1"></feColorMatrix>
+            <feMerge>
+                <feMergeNode in="shadowMatrixOuter1"></feMergeNode>
+                <feMergeNode in="SourceGraphic"></feMergeNode>
+            </feMerge>
+        </filter>
+        <text id="text-4" font-family="AppleSDGothicNeo-Heavy, Apple SD Gothic Neo" font-size="16" font-weight="600" letter-spacing="-0.100000001" fill="#000000" fill-opacity="0.87">
+            <tspan x="0" y="14">	•	동아리 목적: </tspan>
+            <tspan x="117.184" y="14" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-weight="500">프로젝트와 스터디를 중점, 대전 IT 동아리</tspan>
+            <tspan x="0" y="33"></tspan>
+            <tspan x="0" y="52">	•	구성원: </tspan>
+            <tspan x="85.596" y="52" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-weight="500">개발자, 디자이너 역할을 수행 할 수 있는 대학생 및 직장인</tspan>
+            <tspan x="0" y="71"></tspan>
+            <tspan x="0" y="90">	•	프로젝트 분야: </tspan>
+            <tspan x="130.924" y="90" font-family="AppleSDGothicNeo-SemiBold, Apple SD Gothic Neo" font-weight="500">앱, 웹, 임베디드, 게임 등 팀 별 개별 논의</tspan>
+        </text>
+        <filter x="-0.1%" y="-0.5%" width="100.4%" height="102.1%" filterUnits="objectBoundingBox" id="filter-5">
+            <feOffset dx="1" dy="1" in="SourceAlpha" result="shadowOffsetOuter1"></feOffset>
+            <feColorMatrix values="0 0 0 0 0   0 0 0 0 0   0 0 0 0 0  0 0 0 0.5 0" type="matrix" in="shadowOffsetOuter1"></feColorMatrix>
+        </filter>
+    </defs>
+    <g id="Material-Components" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Desktop" transform="translate(-404.000000, -537.000000)">
+            <g id="card" transform="translate(136.000000, 162.000000)">
+                <g id="Group" transform="translate(278.000000, 383.000000)">
+                    <g id="container">
+                        <use fill="black" fill-opacity="1" filter="url(#filter-2)" xlink:href="#path-1"></use>
+                        <use fill="#FFFFFF" fill-rule="evenodd" xlink:href="#path-1"></use>
+                    </g>
+                    <g id="p" filter="url(#filter-3)" transform="translate(25.000000, 54.000000)" fill="#000000" fill-opacity="0.87">
+                        <g id="•-동아리-목적:-프로젝트와-스터디를">
+                            <use filter="url(#filter-5)" xlink:href="#text-4"></use>
+                            <use xlink:href="#text-4"></use>
+                        </g>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>
