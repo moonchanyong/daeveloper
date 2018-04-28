@@ -4,13 +4,3 @@
   top: 30vh;
   left: 25vw;
 }
-
-#back-arrow {
-position: absolute;
-left: 1vw;
-top: 1vw;
-width: 3vw;
-height: 3vw;
-min-width: 30px;
-min-height: 30px;
-}
