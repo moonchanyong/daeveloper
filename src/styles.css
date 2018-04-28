@@ -1,9 +1,13 @@
 /* You can add global styles to this file, and also import other style files */
+/* @import url('https://unpkg.com/bootstrap@3.3.7/dist/css/bootstrap.min.css'); */
+
 .main-title {
-  margin-left: auto;
-  margin-right: auto;
   margin-top: 20vh;
   display: block;
+  position: absolute;
+  left: 50%;
+  transform: translateX(-50%);
+
 }
 
 
@@ -24,3 +28,13 @@
 .color-secondary-2-2 { color: #A3B5EB }
 .color-secondary-2-3 { color: #607DD1 }
 .color-secondary-2-4 { color: #4665C3 }
+
+.back-arrow {
+position: absolute;
+left: 1vw;
+top: 1vw;
+width: 3vw;
+height: 3vw;
+min-width: 30px;
+min-height: 30px;
+}
